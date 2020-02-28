@@ -1,0 +1,25 @@
+{
+  "name": "DKLEO Portfolio",
+  "description": "Portfolio Projects by Derek Lords",
+  "main": "index.html",
+  "authors": [
+    "Derek Lords <http://dkleo.net>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Full-Stack",
+    "Coldfusion",
+    "Modernize"
+  ],
+  "homepage": "http://www.dkleo.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "timeout-dialog": "^0.0.4"
+  }
+}
